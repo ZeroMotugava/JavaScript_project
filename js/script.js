@@ -5,3 +5,4 @@ number = 10;
 console.log(number);
 
 var name = "Ivan";
+var name1 = "Vlad";
